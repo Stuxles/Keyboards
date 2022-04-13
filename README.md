@@ -22,9 +22,9 @@ Collection of my keyboard related projects
 
 |Brand|Name|Switches|Keycaps|Year bought|Where|Extras|
 |---|---|---|---|---|---|---|
-|Keycool|K-5|Cherry MX Blue|Stock|2014||
+|Keycool|K-5|Cherry MX Blue|Stock|2014|Banggood|
 |Leopold|FC200RT|Cherry MX Red|Stock blank|2014|Marktplaats|
 |kprepublic|XD64|Gateron Red|DSA Dolch clone|2017|Aliexpress|Aluminum plate. Clear plastic case|
-|Cartel|Contra|Kailh Box Red||2017|mykeyboard.eu|
+|Cartel|Contra|Kailh Box Red|Orange White Blue DSA|2017|mykeyboard.eu|
 |DIY|Bento macropad|Gateron red|Various novelties|2021||3D printed by myself. Made vial compatible|
 |KBDfans|KBD67 Lite R3|Prevail Epsilon|GMK Darling clone|2021|Candykeys|Krytox 205g0 lubed durock stabilizers. Deep blue|
