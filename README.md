@@ -19,6 +19,11 @@ Collection of my keyboard related projects
 |r/mechmarket|A place for selling, buying, and trading anything related to keyboards.|[Link](https://www.reddit.com/r/mechmarket)|
 |Golem keyboard project|Keyboard build guides, various guides|[Link](https://golem.hu/)|
 
+## Downloads
+|Name|Description|Link|
+|:-----------|:----------------------|:-----:|
+|Keebio-Parts.pretty|Various kicad footprint for mechanical keyboard parts|[Link](https://github.com/keebio/Keebio-Parts.pretty)|
+
 ## Personal keyboards
 
 |Brand|Name|Switches|Keycaps|Year bought|Where|Extras|
