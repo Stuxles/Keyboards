@@ -17,6 +17,7 @@ Collection of my keyboard related projects
 |MechGroupBuys|Overview for group buys|[Link](https://www.mechgroupbuys.com/)|
 |r/MechanicalKeyboards|Mechanical keyboards subreddit|[Link](https://www.reddit.com/r/MechanicalKeyboards)|
 |r/mechmarket|A place for selling, buying, and trading anything related to keyboards.|[Link](https://www.reddit.com/r/mechmarket)|
+|Golem keyboard project|Keyboard build guides, various guides|[Link](https://golem.hu/)|
 
 ## Personal keyboards
 
